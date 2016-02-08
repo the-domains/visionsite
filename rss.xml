@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[VisionSite]]></title>
         <description><![CDATA[VisionSite]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/visionsite/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 08 Feb 2016 17:07:28 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 08 Feb 2016 17:07:31 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/visionsite/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[WHEN PIGS SWIM: THE FILM (EXUMA, BAHAMAS)]]></title>
+            <description><![CDATA[<article><h1>WHEN PIGS SWIM: THE FILM (EXUMA, BAHAMAS)</h1><p>The official film of the swimming pigs. This award winning short documentary (PREVIEW ONLY) is dedicated to the wonderful people of Exuma, and of course, the world-famous swimming pigs. The full version of When Pigs Swim premiered at the 2014 Bahamas International Film Festival and has screened at several International Film Festivals.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/df83fd51876914951fcc66302872fede588835a4.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=NvgKw1bXfqE</link>
+            <guid isPermaLink="false">abab590e-b0ba-48a7-8351-dbfdb69cf00a</guid>
+            <pubDate>Mon, 08 Feb 2016 17:06:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Island Of The Dolls Ghosts - True Scary Stories]]></title>
             <description><![CDATA[<article><h1>Island Of The Dolls Ghosts - True Scary Stories</h1><p>True scary stories about the ghosts of the haunted Island Of The Dolls in Mexico. Real scary ghost stories about possessed demon dolls that come to life at one of the most haunted and scariest places in the world. The Island of the Dolls is located in Xochimilco near Mexico City.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4b3e59875dd37b3d9d1b5c9fc5c21bfc51f57b32.jpg"></article>]]></description>
