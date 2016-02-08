@@ -1,0 +1,28 @@
+name: VisionSite
+favicon: null
+layout_spectrum: 0.6053233249112964
+typography_spectrum: 0.19287441298365593
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.5022751674987376
+  lightness: 0.09853839594870806
+  saturation: 0.5056702073197812
+  rhythmicContrast: 0.971129302168265
+purpose: []
