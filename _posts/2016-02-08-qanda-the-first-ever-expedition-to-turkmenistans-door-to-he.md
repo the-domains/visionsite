@@ -1,11 +1,10 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'http://news.nationalgeographic.com'
-  name: National Geographic News
-  favicon: 'http://news.nationalgeographic.com/etc/designs/platform/v2/images/favicon.ico'
-  domain: news.nationalgeographic.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'http://news.nationalgeographic.com/news/energy/2014/07/140716-door-to-hell-darvaza-crater-george-kourounis-expedition/'
+inLanguage: en
+starred: false
 keywords:
   - crater
   - geographic
@@ -17,18 +16,21 @@ keywords:
   - find
   - get
   - preparing
-description: 'More than four decades ago, a gaping, fiery crater opened up in the desert of northern Turkmenistan ( map), likely the result of a drilling mishap. The Darvaza Crater, more commonly known as the Door to Hell, still burns today, a surreal feature in an otherwise barren landscape.'
-inLanguage: en
+description: 'More than four decades ago, a gaping, fiery crater opened up in the desert of northern Turkmenistan (map), likely the result of a drilling mishap. The Darvaza Crater, more commonly known as the Door to Hell, still burns today, a surreal feature in an otherwise barren landscape.'
+datePublished: '2016-02-08T18:09:28.968Z'
+dateModified: '2016-02-08T18:09:26.742Z'
+author: []
+related: []
 app_links: []
-isBasedOnUrl: 'http://news.nationalgeographic.com/news/energy/2014/07/140716-door-to-hell-darvaza-crater-george-kourounis-expedition/'
 title: "Q&A: The First-Ever Expedition to Turkmenistan's \"Door to Hell\""
-datePublished: '2016-02-08T18:01:53.666Z'
-dateModified: '2016-02-08T18:00:16.298Z'
 sourcePath: _posts/2016-02-08-qanda-the-first-ever-expedition-to-turkmenistans-door-to-he.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: National Geographic News
+  domain: news.nationalgeographic.com
+  url: 'http://news.nationalgeographic.com'
+  favicon: 'http://news.nationalgeographic.com/etc/designs/platform/v2/images/favicon.ico'
 _context: 'http://schema.org'
 _type: MediaObject
 
